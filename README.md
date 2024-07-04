@@ -4,12 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🌱 I’m currently learning **NodeJS, Express, React, NextJS, Docker**
 
-- 🔭 I’m currently working on [Firebase Chat App](https://github.com/adipshr/firebase-chat-app)
-
-- 🌱 I’m currently learning **React, Firebase, Flutter, NodeJS, Docker**
-
-- 💬 Ask me about **react, firebase**
+- 💬 Ask me about **NodeJS, MongoDB**
 
 - 📫 How to reach me **adi.pshr@gmail.com**
 
